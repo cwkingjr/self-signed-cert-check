@@ -1,0 +1,23 @@
+# Format is domain|server port, one entry per line
+# Example: facebook.com|443
+# When no |port provided, script uses 443
+# Blank lines and comments are ignored
+
+twitter.com
+dropbox.com
+youtube.com
+yahoo.com
+www.af.mil
+amazon.com
+linkedin.com
+wikipedia.org
+www.ebay.com
+craigslist.org
+bing.com
+blogspot.com
+pinterest.com
+www.live.com
+paypal.com
+wordpress.com
+netflix.com
+www.aol.com

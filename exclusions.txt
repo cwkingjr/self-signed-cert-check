@@ -1,0 +1,9 @@
+# Format is domain|port#comment, one entry per line
+# Example: facebook.com|443 # my comment goes here
+# When no |port provided, script uses 443
+# Embedded comments are optional on entry lines
+# Blank lines and comment only lines (starts with #) are ignored
+
+www.dtic.mil # self signed by dod
+blogspot.com|443 # self signed by google
+youtube.com # self signed by google

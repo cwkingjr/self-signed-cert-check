@@ -1,0 +1,16 @@
+amazon.com|443|2013-09-11|[-]: Domain [amazon.com], Issuer: O=VeriSign, Subject: O=Amazon.com Inc.
+bing.com|443|2013-09-11|[SSC]: Domain [bing.com] presumed self-signed - lack of Issuer/Subject O's
+blogspot.com|443|2013-09-11|[SSC]: Domain [blogspot.com] matching Issuer & Subject 'O' of O=Google Inc
+craigslist.org|443|2013-09-11|[-]: Domain [craigslist.org], Issuer: O=Network Solutions L.L.C., Subject: O=Craigslist Inc
+dropbox.com|443|2013-09-11|[SSC]: Domain [dropbox.com] presumed self-signed - lack of Issuer/Subject O's
+linkedin.com|443|2013-09-11|[-]: Domain [linkedin.com], Issuer: O=Thawte, Subject: O=LinkedIn Corporation
+netflix.com|443|2013-09-11|[SSC]: Domain [netflix.com] presumed self-signed - lack of Issuer/Subject O's
+paypal.com|443|2013-09-11|[-]: Domain [paypal.com], Issuer: O=VeriSign, Subject: O=PayPal
+pinterest.com|443|2013-09-11|[-]: Domain [pinterest.com], Issuer: O=DigiCert Inc, Subject: O=Pinterest Inc
+twitter.com|443|2013-09-11|[-]: Domain [twitter.com], Issuer: O=VeriSign, Subject: O=Twitter
+wikipedia.org|443|2013-09-11|[-]: Domain [wikipedia.org], Issuer: O=DigiCert Inc, Subject: O=Wikimedia Foundation
+wordpress.com|443|2013-09-11|[-]: Domain [wordpress.com], Issuer: O=GoDaddy.com, Subject: O=wordpress.com
+www.aol.com|443|2013-09-11|[-]: Domain [www.aol.com], Issuer: O=America Online Inc., Subject: O=AOL LLC
+www.ebay.com|443|2013-09-11|[-]: Domain [www.ebay.com], Issuer: O=VeriSign, Subject: O=eBay Inc.
+www.live.com|443|2013-09-11|[-]: Domain [www.live.com], Issuer: O=VeriSign, Subject: O=Microsoft Corporation
+yahoo.com|443|2013-09-11|[-]: Domain [yahoo.com], Issuer: O=Equifax, Subject: O=Yahoo  Inc.
